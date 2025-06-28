@@ -1,8 +1,10 @@
 {
-    "id": "53765172",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "台灣迅通網路服務有限公司",
+    "章程所訂外文公司名稱": "",
     "資本總額(元)": "2,000,000",
-    "代表人姓名": "M_N",
+    "代表人姓名": "Michael Quigley KEEGAN",
     "公司所在地": "臺北市大安區敦化南路2段38號10樓",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -29,36 +31,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "M_N",
-            "所代表法人": [
-                0,
-                "英商 TNS TransXpress Holding Company (UK) Limited"
-            ],
+            "姓名": "Michael Quigley KEEGAN",
+            "所代表法人": "英商 TNS TransXpress Holding Company (UK) Limited",
             "出資額": "2,000,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "J_n",
-            "所代表法人": [
-                0,
-                "英商 TNS TransXpress Holding Company (UK) Limited"
-            ],
+            "姓名": "James Timothy McLaughlin",
+            "所代表法人": "英商 TNS TransXpress Holding Company (UK) Limited",
             "出資額": "2,000,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "(_)",
-            "所代表法人": [
-                0,
-                "英商 TNS TransXpress Holding Company (UK) Limited"
-            ],
+            "姓名": "(暫空)",
+            "所代表法人": "英商 TNS TransXpress Holding Company (UK) Limited",
             "出資額": ""
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T02:13:09+00:00",
+    "id": "53765172"
 }

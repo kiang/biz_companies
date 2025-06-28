@@ -1,8 +1,10 @@
 {
-    "id": "28835805",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "台灣賀德克技術有限公司",
+    "章程所訂外文公司名稱": "HYDAC Technology Ltd.",
     "資本總額(元)": "4,500,000",
-    "代表人姓名": "鄧_D",
+    "代表人姓名": "鄧藹禮DR.DIETER,ALEXANDER CONRAD",
     "公司所在地": "臺中市南屯區文山里精科七路18號",
     "登記機關": "臺中市政府",
     "核准設立日期": {
@@ -49,36 +51,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "鄧_D",
-            "所代表法人": [
-                0,
-                "德商賀德克投資管理有限公司INTHOL  BUV Beteiligungs-und Verwaltungsgesellschaft mbH"
-            ],
+            "姓名": "鄧藹禮DR.DIETER,ALEXANDER CONRAD",
+            "所代表法人": "德商INTHOL  Beteiligungs-und Verwaltungsgesellschaft mbH",
             "出資額": "4,500,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "韋_C",
-            "所代表法人": [
-                0,
-                "德商賀德克投資管理有限公司INTHOL  BUV Beteiligungs-und Verwaltungsgesellschaft mbH"
-            ],
+            "姓名": "李志康KARIMUN, RUDY",
+            "所代表法人": "德商INTHOL  Beteiligungs-und Verwaltungsgesellschaft mbH",
             "出資額": "4,500,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "藍_Z",
-            "所代表法人": [
-                0,
-                "德商賀德克投資管理有限公司INTHOL  BUV Beteiligungs-und Verwaltungsgesellschaft mbH"
-            ],
+            "姓名": "藍祿諮  LANDMESSER,  LUTZ",
+            "所代表法人": "德商INTHOL  Beteiligungs-und Verwaltungsgesellschaft mbH",
             "出資額": "4,500,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "HYDAC Technology Ltd.",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-27T21:17:23+00:00",
+    "id": "28835805"
 }

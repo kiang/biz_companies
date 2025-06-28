@@ -1,8 +1,10 @@
 {
-    "id": "54591740",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "睿昇影音有限公司",
+    "章程所訂外文公司名稱": "TRISON ELECTRONICS TAIWAN CO., LTD.",
     "資本總額(元)": "500,000",
-    "代表人姓名": "戴_l",
+    "代表人姓名": "戴高卡Gorka Delgado Napal",
     "公司所在地": "臺中市南屯區五權西路二段666號13樓之2",
     "登記機關": "臺中市政府",
     "核准設立日期": {
@@ -65,36 +67,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "戴_l",
-            "所代表法人": [
-                0,
-                "TRISON INTERNATIONAL SUBSIDIARIES S.L.U."
-            ],
+            "姓名": "戴高卡Gorka Delgado Napal",
+            "所代表法人": "TRISON INTERNATIONAL SUBSIDIARIES S.L.U.",
             "出資額": "500,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "戴_a",
-            "所代表法人": [
-                0,
-                "TRISON INTERNATIONAL SUBSIDIARIES S.L.U."
-            ],
+            "姓名": "戴弗南Francesc Dalmau Espina",
+            "所代表法人": "TRISON INTERNATIONAL SUBSIDIARIES S.L.U.",
             "出資額": "500,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "薩_z",
-            "所代表法人": [
-                0,
-                "TRISON INTERNATIONAL SUBSIDIARIES S.L.U."
-            ],
+            "姓名": "薩可羅Jose Carlos Saavedra Pérez",
+            "所代表法人": "TRISON INTERNATIONAL SUBSIDIARIES S.L.U.",
             "出資額": "500,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "TRISON ELECTRONICS TAIWAN CO., LTD.",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-27T23:22:17+00:00",
+    "id": "54591740"
 }

@@ -1,9 +1,13 @@
 {
-    "id": "90547086",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "北能投資股份有限公司",
+    "章程所訂外文公司名稱": "NP NorthWind Co., Ltd.",
     "資本總額(元)": "126,429,180",
     "實收資本額(元)": "126,429,180",
-    "代表人姓名": "J_l",
+    "每股金額(元)": "10",
+    "已發行股份總數(股)": "12,642,918",
+    "代表人姓名": "Jennifer Anne Snowball",
     "公司所在地": "臺北市中山區南京東路3段168號14樓之2",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -16,6 +20,8 @@
         "month": 4,
         "day": 10
     },
+    "複數表決權特別股": "無",
+    "對於特定事項具否決權特別股": "無",
     "所營事業資料": [
         [
             "H201010",
@@ -30,50 +36,33 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "J_l",
-            "所代表法人": [
-                0,
-                "荷蘭商 NP Taiwan Project NorthWind Holdings B.V."
-            ],
+            "姓名": "Jennifer Anne Snowball",
+            "所代表法人": "荷蘭商 NP Taiwan Project NorthWind Holdings B.V.",
             "出資額": "12,642,918"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "D_o",
-            "所代表法人": [
-                0,
-                "荷蘭商 NP Taiwan Project NorthWind Holdings B.V."
-            ],
+            "姓名": "Dominic Anthony Szanto",
+            "所代表法人": "荷蘭商 NP Taiwan Project NorthWind Holdings B.V.",
             "出資額": "12,642,918"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "G_e",
-            "所代表法人": [
-                0,
-                "荷蘭商 NP Taiwan Project NorthWind Holdings B.V."
-            ],
+            "姓名": "Ghoh Ban Lee",
+            "所代表法人": "荷蘭商 NP Taiwan Project NorthWind Holdings B.V.",
             "出資額": "12,642,918"
         },
         {
             "序號": "0004",
             "職稱": "董事",
-            "姓名": "L_n",
-            "所代表法人": [
-                0,
-                "荷蘭商 NP Taiwan Project NorthWind Holdings B.V."
-            ],
+            "姓名": "Low Kian Min",
+            "所代表法人": "荷蘭商 NP Taiwan Project NorthWind Holdings B.V.",
             "出資額": "12,642,918"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "NP NorthWind Co., Ltd.",
-    "複數表決權特別股": "無",
-    "對於特定事項具否決權特別股": "無",
-    "每股金額(元)": "10",
-    "已發行股份總數(股)": "12,642,918",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T00:37:34+00:00",
+    "id": "90547086"
 }
