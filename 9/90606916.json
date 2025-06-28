@@ -1,9 +1,13 @@
 {
-    "id": "90606916",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "液空創新材料暨服務股份有限公司",
+    "章程所訂外文公司名稱": "Air Liquide Materials Innovation & Services Taiwan Co., Ltd.",
     "資本總額(元)": "1,154,000,000",
     "實收資本額(元)": "1,154,000,000",
-    "代表人姓名": "L_R",
+    "每股金額(元)": "10",
+    "已發行股份總數(股)": "115,400,000",
+    "代表人姓名": "Laurent LANGELLIER",
     "公司所在地": "臺北市內湖區瑞光路399號7樓",
     "登記機關": "經濟部商業發展署",
     "核准設立日期": {
@@ -16,6 +20,8 @@
         "month": 4,
         "day": 21
     },
+    "複數表決權特別股": "無",
+    "對於特定事項具否決權特別股": "無",
     "所營事業資料": [
         [
             "F401010",
@@ -98,60 +104,40 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "L_R",
-            "所代表法人": [
-                0,
-                "法商 Societe D'Oxyaene et D'Acetylene"
-            ],
+            "姓名": "Laurent LANGELLIER",
+            "所代表法人": "法商 Societe D'Oxyaene et D'Acetylene",
             "出資額": "115,400,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "A_N",
-            "所代表法人": [
-                0,
-                "法商 Societe D'Oxyaene et D'Acetylene"
-            ],
+            "姓名": "Arya SANGWAN",
+            "所代表法人": "法商 Societe D'Oxyaene et D'Acetylene",
             "出資額": "115,400,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "K_W",
-            "所代表法人": [
-                0,
-                "法商 Societe D'Oxyaene et D'Acetylene"
-            ],
+            "姓名": "Koksum CHOW",
+            "所代表法人": "法商 Societe D'Oxyaene et D'Acetylene",
             "出資額": "115,400,000"
         },
         {
             "序號": "0004",
             "職稱": "董事",
-            "姓名": "R_R",
-            "所代表法人": [
-                0,
-                "法商 Societe D'Oxyaene et D'Acetylene"
-            ],
+            "姓名": "Ranjith NAIR",
+            "所代表法人": "法商 Societe D'Oxyaene et D'Acetylene",
             "出資額": "115,400,000"
         },
         {
             "序號": "0005",
             "職稱": "董事",
-            "姓名": "H_H",
-            "所代表法人": [
-                0,
-                "法商 Societe D'Oxyaene et D'Acetylene"
-            ],
+            "姓名": "Huiling KOH",
+            "所代表法人": "法商 Societe D'Oxyaene et D'Acetylene",
             "出資額": "115,400,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Air Liquide Materials Innovation & Services Taiwan Co., Ltd.",
-    "複數表決權特別股": "無",
-    "對於特定事項具否決權特別股": "無",
-    "每股金額(元)": "10",
-    "已發行股份總數(股)": "115,400,000",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T07:14:24+00:00",
+    "id": "90606916"
 }

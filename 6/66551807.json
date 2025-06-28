@@ -1,9 +1,13 @@
 {
-    "id": "66551807",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "奧鋼聯科研亞洲股份有限公司",
+    "章程所訂外文公司名稱": "VOESTALPINE TECHNOLOGY INSTITUTE(ASIA) CO., LTD.",
     "資本總額(元)": "48,000,000",
     "實收資本額(元)": "48,000,000",
-    "代表人姓名": "L_n",
+    "每股金額(元)": "1,000,000",
+    "已發行股份總數(股)": " ",
+    "代表人姓名": "Leong Choon Meng Jason",
     "公司所在地": "新北市五股區五工一路112號",
     "登記機關": "新北市政府",
     "核准設立日期": {
@@ -16,6 +20,8 @@
         "month": 4,
         "day": 18
     },
+    "複數表決權特別股": "無",
+    "對於特定事項具否決權特別股": "無",
     "所營事業資料": [
         [
             "IG02010",
@@ -30,80 +36,54 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "L_n",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Leong Choon Meng Jason",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "L_g",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Lim Lian Eng",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "Y_g",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Ye Weijiang",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0004",
             "職稱": "董事",
-            "姓名": "G_r",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Georg Reithofer",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0005",
             "職稱": "董事",
-            "姓名": "王_智",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "王尚智",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0006",
             "職稱": "董事",
-            "姓名": "H_l",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Heinrich Scherngell",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         },
         {
             "序號": "0007",
             "職稱": "監察人",
-            "姓名": "F_g",
-            "所代表法人": [
-                0,
-                "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd."
-            ],
+            "姓名": "Fong Chee Yong",
+            "所代表法人": "新加坡商 voestalpine High Performance Metals Pacific Pte. Ltd.",
             "出資額": "48"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "VOESTALPINE TECHNOLOGY INSTITUTE(ASIA) CO., LTD.",
-    "複數表決權特別股": "無",
-    "對於特定事項具否決權特別股": "無",
-    "每股金額(元)": "1,000,000",
-    "已發行股份總數(股)": " ",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T06:05:37+00:00",
+    "id": "66551807"
 }

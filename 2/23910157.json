@@ -1,9 +1,13 @@
 {
-    "id": "23910157",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "台灣百靈佳殷格翰動物事業股份有限公司",
+    "章程所訂外文公司名稱": "",
     "資本總額(元)": "100,000,000",
     "實收資本額(元)": "74,571,540",
-    "代表人姓名": "A_r",
+    "每股金額(元)": "10",
+    "已發行股份總數(股)": "7,457,154",
+    "代表人姓名": "Alison Clare Barker",
     "公司所在地": "臺北市中山區民生東路3段2號12樓",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -16,6 +20,8 @@
         "month": 5,
         "day": 12
     },
+    "複數表決權特別股": "無",
+    "對於特定事項具否決權特別股": "無",
     "所營事業資料": [
         [
             "C802060",
@@ -62,70 +68,50 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "A_r",
-            "所代表法人": [
-                0,
-                "德商 Boehringer Ingelheim Animal Health International GmbH"
-            ],
+            "姓名": "Alison Clare Barker",
+            "所代表法人": "德商 Boehringer Ingelheim Animal Health International GmbH",
             "出資額": "7,457,154"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "M_l",
-            "所代表法人": [
-                0,
-                "德商 Boehringer Ingelheim Animal Health International GmbH"
-            ],
+            "姓名": "Mohammed Hani Abdel-Rahman A1-Tawil",
+            "所代表法人": "德商 Boehringer Ingelheim Animal Health International GmbH",
             "出資額": "7,457,154"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "徐_珠",
-            "所代表法人": [
-                0,
-                "德商 Boehringer Ingelheim Animal Health International GmbH"
-            ],
+            "姓名": "徐秀珠",
+            "所代表法人": "德商 Boehringer Ingelheim Animal Health International GmbH",
             "出資額": "7,457,154"
         },
         {
             "序號": "0004",
             "職稱": "董事",
-            "姓名": "邱_誌",
-            "所代表法人": [
-                0,
-                "德商 Boehringer Ingelheim Animal Health International GmbH"
-            ],
+            "姓名": "邱建誌",
+            "所代表法人": "德商 Boehringer Ingelheim Animal Health International GmbH",
             "出資額": "7,457,154"
         },
         {
             "序號": "0005",
             "職稱": "監察人",
-            "姓名": "P_n",
-            "所代表法人": [
-                0,
-                "德商 Boehringer Ingelheim Animal Health International GmbH"
-            ],
+            "姓名": "Patrik Ziman",
+            "所代表法人": "德商 Boehringer Ingelheim Animal Health International GmbH",
             "出資額": "7,457,154"
         }
     ],
     "經理人名單": [
         {
             "序號": "0001",
-            "姓名": "A_r",
-            "到職日期": {
+            "姓名": "Alison Clare Barker",
+            "就任日期": {
                 "year": 2025,
                 "month": 5,
                 "day": 1
             }
         }
     ],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "",
-    "複數表決權特別股": "無",
-    "對於特定事項具否決權特別股": "無",
-    "每股金額(元)": "10",
-    "已發行股份總數(股)": "7,457,154",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T05:45:33+00:00",
+    "id": "23910157"
 }

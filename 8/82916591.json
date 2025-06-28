@@ -1,8 +1,10 @@
 {
-    "id": "82916591",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "高駿台灣有限公司",
+    "章程所訂外文公司名稱": "Cogent Taiwan Limited",
     "資本總額(元)": "6,250,000",
-    "代表人姓名": "D_d",
+    "代表人姓名": "David Schaeffer,  Marie-Josèphe Frangville(née Anton),  Thaddeus Gerard Weed",
     "公司所在地": "臺北市信義區信義路4段415號12樓",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -49,36 +51,26 @@
         {
             "序號": "0001",
             "職稱": "董事",
-            "姓名": "D_r",
-            "所代表法人": [
-                0,
-                "美商 Cogent Communications, LLC"
-            ],
+            "姓名": "David Schaeffer",
+            "所代表法人": "美商 Cogent Communications, LLC",
             "出資額": "6,250,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "M_)",
-            "所代表法人": [
-                0,
-                "美商 Cogent Communications, LLC"
-            ],
+            "姓名": "Marie-Josèphe Frangville(née Anton)",
+            "所代表法人": "美商 Cogent Communications, LLC",
             "出資額": "6,250,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "T_d",
-            "所代表法人": [
-                0,
-                "美商 Cogent Communications, LLC"
-            ],
+            "姓名": "Thaddeus Gerard Weed",
+            "所代表法人": "美商 Cogent Communications, LLC",
             "出資額": "6,250,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Cogent Taiwan Limited",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T04:20:47+00:00",
+    "id": "82916591"
 }
