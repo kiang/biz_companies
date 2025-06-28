@@ -1,8 +1,10 @@
 {
-    "id": "83170819",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "台灣英飛凌科技記憶體系統有限公司",
+    "章程所訂外文公司名稱": "Infineon Technologies Memory Solutions Taiwan Ltd.",
     "資本總額(元)": "5,000,000",
-    "代表人姓名": "R_r",
+    "代表人姓名": "Rainer Hoehler",
     "公司所在地": "臺北市內湖區瑞光路335號17樓",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -53,36 +55,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "R_r",
-            "所代表法人": [
-                0,
-                "美商 Infineon Technologies Memory Solutions Holdings Inc."
-            ],
+            "姓名": "Rainer Hoehler",
+            "所代表法人": "美商 Infineon Technologies Memory Solutions Holdings Inc.",
             "出資額": "5,000,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "M_d",
-            "所代表法人": [
-                0,
-                "美商 Infineon Technologies Memory Solutions Holdings Inc."
-            ],
+            "姓名": "Marc David Field",
+            "所代表法人": "美商 Infineon Technologies Memory Solutions Holdings Inc.",
             "出資額": "5,000,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "缺_額",
-            "所代表法人": [
-                0,
-                "美商 Infineon Technologies Memory Solutions Holdings Inc."
-            ],
+            "姓名": "缺額",
+            "所代表法人": "美商 Infineon Technologies Memory Solutions Holdings Inc.",
             "出資額": "5,000,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Infineon Technologies Memory Solutions Taiwan Ltd.",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T09:30:46+00:00",
+    "id": "83170819"
 }

@@ -1,6 +1,7 @@
 {
-    "id": "90144210",
+    "登記現況": "解散",
     "公司名稱": "肥皂劇創藝有限公司",
+    "章程所訂外文公司名稱": "Soap Opera Creative Soapery Trading Limited",
     "資本總額(元)": "500,000",
     "代表人姓名": "",
     "公司所在地": "臺北市大安區忠孝東路4段221號10樓",
@@ -103,6 +104,6 @@
     ],
     "董監事名單": [],
     "經理人名單": [],
-    "章程所訂外文公司名稱": "Soap Opera Creative Soapery Trading Limited",
-    "登記現況": "解散\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(114年04月30日\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t府產業商字\r\n             \t\t\t\t\t\t\t\t\t\t\t\t\t第11448634000號)"
+    "crawled_at": "2025-06-28T14:38:05+00:00",
+    "id": "90144210"
 }

@@ -1,8 +1,10 @@
 {
-    "id": "24951275",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "台灣雅高達國際有限公司",
+    "章程所訂外文公司名稱": "Agoda International Taiwan Company Limited",
     "資本總額(元)": "7,000,000",
-    "代表人姓名": "S_)",
+    "代表人姓名": "Sunny Bharwani (巴灣尼)",
     "公司所在地": "臺北市信義區松高路1號12樓及12樓之1",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -37,36 +39,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "S_)",
-            "所代表法人": [
-                0,
-                "新加坡商 Agoda International Pte. Ltd."
-            ],
+            "姓名": "Sunny Bharwani (巴灣尼)",
+            "所代表法人": "新加坡商 Agoda International Pte. Ltd.",
             "出資額": "7,000,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "S_n",
-            "所代表法人": [
-                0,
-                "新加坡商 Agoda International Pte. Ltd."
-            ],
+            "姓名": "Sajade Pinjaroen",
+            "所代表法人": "新加坡商 Agoda International Pte. Ltd.",
             "出資額": "7,000,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "S_c",
-            "所代表法人": [
-                0,
-                "新加坡商 Agoda International Pte. Ltd."
-            ],
+            "姓名": "Susana Alves D'Emic",
+            "所代表法人": "新加坡商 Agoda International Pte. Ltd.",
             "出資額": "7,000,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Agoda International Taiwan Company Limited",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T09:11:01+00:00",
+    "id": "24951275"
 }

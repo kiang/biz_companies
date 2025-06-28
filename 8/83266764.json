@@ -1,6 +1,8 @@
 {
-    "id": "83266764",
+    "登記現況": "解散",
+    "股權狀況": "僑外資",
     "公司名稱": "卡爾特恩國際有限公司",
+    "章程所訂外文公司名稱": "Calverten International Enterprise Co., Ltd.",
     "資本總額(元)": "12,000",
     "代表人姓名": "",
     "公司所在地": "臺北市中山區松江路122號11樓",
@@ -59,7 +61,6 @@
     ],
     "董監事名單": [],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Calverten International Enterprise Co., Ltd.",
-    "登記現況": "解散\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(114年04月30日\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t府產業商字\r\n             \t\t\t\t\t\t\t\t\t\t\t\t\t第11448622700號)"
+    "crawled_at": "2025-06-28T14:37:13+00:00",
+    "id": "83266764"
 }
