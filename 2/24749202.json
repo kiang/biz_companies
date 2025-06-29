@@ -1,8 +1,10 @@
 {
-    "id": "24749202",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "傳譯國際有限公司",
+    "章程所訂外文公司名稱": "",
     "資本總額(元)": "1,000,000",
-    "代表人姓名": "M_k",
+    "代表人姓名": "Michael Greg Sank",
     "公司所在地": "臺北市信義區忠孝東路5段68號29樓(2911室)",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -61,36 +63,26 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "M_k",
-            "所代表法人": [
-                0,
-                "美商 TransPerfect Translations International Inc."
-            ],
+            "姓名": "Michael Greg Sank",
+            "所代表法人": "美商 TransPerfect Translations International Inc.",
             "出資額": "1,000,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "P_e",
-            "所代表法人": [
-                0,
-                "美商 TransPerfect Translations International Inc."
-            ],
+            "姓名": "Philip Reid Shawe",
+            "所代表法人": "美商 TransPerfect Translations International Inc.",
             "出資額": "1,000,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "R_o",
-            "所代表法人": [
-                0,
-                "美商 TransPerfect Translations International Inc."
-            ],
+            "姓名": "Roy Benjamin Trujillo",
+            "所代表法人": "美商 TransPerfect Translations International Inc.",
             "出資額": "1,000,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-29T12:20:30+00:00",
+    "id": "24749202"
 }

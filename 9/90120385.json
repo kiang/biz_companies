@@ -1,9 +1,13 @@
 {
-    "id": "90120385",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "陳唱台灣技術開發股份有限公司",
+    "章程所訂外文公司名稱": "Tan Chong Technology Development (Taiwan) Co. Ltd.",
     "資本總額(元)": "12,000,000",
     "實收資本額(元)": "12,000,000",
-    "代表人姓名": "C_海",
+    "每股金額(元)": "1",
+    "已發行股份總數(股)": "12,000,000",
+    "代表人姓名": "Chin Ten Hoy陳天海",
     "公司所在地": "臺北市大同區南京西路61號11樓之4",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -16,6 +20,8 @@
         "month": 5,
         "day": 16
     },
+    "複數表決權特別股": "無",
+    "對於特定事項具否決權特別股": "無",
     "所營事業資料": [
         [
             "IG02010",
@@ -42,120 +48,82 @@
         {
             "序號": "0001",
             "職稱": "董事長",
-            "姓名": "C_海",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Chin Ten Hoy陳天海",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0002",
             "職稱": "董事",
-            "姓名": "H_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Ho Wai Ming",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0003",
             "職稱": "董事",
-            "姓名": "T_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Tan Keng Meng",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0004",
             "職稱": "董事",
-            "姓名": "T_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Tan Teow Chang",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0005",
             "職稱": "董事",
-            "姓名": "缺_額",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "缺額",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": ""
         },
         {
             "序號": "0006",
             "職稱": "董事",
-            "姓名": "W_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Wan Chun Shong",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0007",
             "職稱": "董事",
-            "姓名": "C_i",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Chia Tuang Mooi",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0008",
             "職稱": "董事",
-            "姓名": "L_n",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Lee Jiunn Shyan",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0009",
             "職稱": "董事",
-            "姓名": "T_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Teong Seng Kiang",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0010",
             "職稱": "董事",
-            "姓名": "C_g",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Chow Kai Ming",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         },
         {
             "序號": "0011",
             "職稱": "董事",
-            "姓名": "O_e",
-            "所代表法人": [
-                0,
-                "TC Manufacturing(Labuan) Pte Ltd"
-            ],
+            "姓名": "Ong Yin Ee",
+            "所代表法人": "TC Manufacturing(Labuan) Pte Ltd",
             "出資額": "12,000,000"
         }
     ],
     "經理人名單": [],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "Tan Chong Technology Development (Taiwan) Co. Ltd.",
-    "複數表決權特別股": "無",
-    "對於特定事項具否決權特別股": "無",
-    "每股金額(元)": "1",
-    "已發行股份總數(股)": "12,000,000",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-29T12:50:18+00:00",
+    "id": "90120385"
 }
