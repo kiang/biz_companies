@@ -1,8 +1,10 @@
 {
-    "id": "90667672",
+    "登記現況": "核准設立",
+    "股權狀況": "僑外資",
     "公司名稱": "美國融文國際營銷有限公司",
+    "章程所訂外文公司名稱": "EAST WEST INTERNATIONAL MARKETING LTD.",
     "資本總額(元)": "5,000,000",
-    "代表人姓名": "J_L",
+    "代表人姓名": "JACOBS CLAYTON MICHAEL",
     "公司所在地": "臺北市松山區敦化北路167號16樓",
     "登記機關": "臺北市政府",
     "核准設立日期": {
@@ -49,26 +51,22 @@
         {
             "序號": "0001",
             "職稱": "董事",
-            "姓名": "J_L",
-            "所代表法人": [
-                0,
-                "美商 EAST WEST INTERNATIONAL MARKETING GROUP, INC."
-            ],
+            "姓名": "JACOBS CLAYTON MICHAEL",
+            "所代表法人": "美商 EAST WEST INTERNATIONAL MARKETING GROUP, INC.",
             "出資額": "5,000,000"
         }
     ],
     "經理人名單": [
         {
             "序號": "0001",
-            "姓名": "R_O",
-            "到職日期": {
+            "姓名": "RAMIREZ MUNOZ ALFONSO",
+            "就任日期": {
                 "year": 2021,
                 "month": 12,
                 "day": 29
             }
         }
     ],
-    "股權狀況": "僑外資",
-    "章程所訂外文公司名稱": "EAST WEST INTERNATIONAL MARKETING LTD.",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-29T07:42:42+00:00",
+    "id": "90667672"
 }

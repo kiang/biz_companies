@@ -4,8 +4,11 @@
         "香港商啓泰環球有限公司",
         "KENDEX GLOBAL LIMITED"
     ],
-    "在中華民國境內代表人": "陳珈悠\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tCHAN KA YAU TIFFANY",
-    "辦事處所在地": "臺北市中正區博愛路53號7樓\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n    \t\t\t\t\t\t\t\t\t\t\t\t\t\t地址所屬公司家數: 17\r\n    \t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t 電子地圖 ",
+    "在中華民國境內代表人": [
+        "陳珈悠",
+        "CHAN KA YAU TIFFANY"
+    ],
+    "辦事處所在地": "臺北市中正區博愛路53號7樓",
     "登記機關": "經濟部商業發展署",
     "核准登記日期": {
         "year": 2025,
@@ -18,6 +21,6 @@
         "day": 14
     },
     "代表人在中華民國境內所為的法律行為": "",
-    "crawled_at": "2025-06-27T08:03:42+00:00",
+    "crawled_at": "2025-06-29T07:05:49+00:00",
     "id": "00031507"
 }
